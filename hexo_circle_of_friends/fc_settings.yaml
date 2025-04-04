@@ -32,7 +32,7 @@ LINK: [
 SETTINGS_FRIENDS_LINKS: {
     enable: false,
     json_api: "",
-    list: [
+    list: 
         [
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
